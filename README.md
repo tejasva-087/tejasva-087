@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejasva Khandelwal</h1>
-<h3 align="center">A passionate student who has a interest in coding from India.</h3>
+<h3 align="center">A passionate student who has a interest in coding.</h3>
 
 <p align="left"> <a href="https://twitter.com/tejasva_3011" target="blank"><img src="https://img.shields.io/twitter/follow/tejasva_3011?logo=twitter&style=for-the-badge" alt="tejasva_3011" /></a> </p>
 
