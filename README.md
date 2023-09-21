@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejasva Khandelwal</h1>
 <h3 align="center">A passionate student who has a interest in coding.</h3>
 
-- 🔭 I’m currently working on **my Portfolio website**
-
 - 🌱 I’m currently learning **Javascript and CSS**
 
 - 👯 I’m looking to collaborate on **projects to enhance my skills**
