@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejasva Khandelwal</h1>
 <h3 align="center">A passionate student who has a interest in coding.</h3>
 
-- 🌱 I’m currently advancing my knowledge with grasping **DSA using Javascript**
-
-- 👯 I’m looking to collaborate on **projects to enhance my skills**
-
-- 🤝 I’m looking for help with **anyone who can guide me**
+- 🌱 I’m currently **Exploring the wide field of computer science**
 
 - 💬 Ask me about **Python, Javascript**
 
