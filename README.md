@@ -1,5 +1,7 @@
 # Tejasva Khandelwal
 
+<a href="https://twitter.com/Tejasva_3011" target="_blank">Twitter</a>
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Tejasva_3011)](https://twitter.com/Tejasva_3011)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tejasva-khandelwal/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/tejuss087/)](https://www.instagram.com/tejuss087)
