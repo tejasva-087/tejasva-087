@@ -18,12 +18,3 @@
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=CSS3&color=353535) ![Bootstrap](https://img.shields.io/badge/-Sass-05122A?style=flat-square&logo=Sass&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git%28Basics%29-05122A?style=flat-square&logo=Git(Basics)&color=353535)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasva-087&show_icons=true&locale=en&layout=compact" alt="tejasva-087" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=tejasva-087&" alt="tejasva-087" />
-</div>
-
-
----
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
