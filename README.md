@@ -17,3 +17,5 @@
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=CSS3&color=353535) ![Bootstrap](https://img.shields.io/badge/-Sass-05122A?style=flat-square&logo=Sass&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git%28Basics%29-05122A?style=flat-square&logo=Git(Basics)&color=353535)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
