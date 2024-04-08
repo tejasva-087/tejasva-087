@@ -20,8 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasva-087&show_icons=true&locale=en&layout=compact" alt="tejasva-087" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasva-087&show_icons=true&locale=en" alt="tejasva-087" /></p>
+[![Tejasva Khandelwal's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=tejasva-087&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasva-087&" alt="tejasva-087" /></p>
-
-[![Tejasva Khandelwal's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=tejasva-087&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
