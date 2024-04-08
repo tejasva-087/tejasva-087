@@ -18,4 +18,10 @@
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=CSS3&color=353535) ![Bootstrap](https://img.shields.io/badge/-Sass-05122A?style=flat-square&logo=Sass&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git%28Basics%29-05122A?style=flat-square&logo=Git(Basics)&color=353535)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasva-087&show_icons=true&locale=en&layout=compact" alt="tejasva-087" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasva-087&show_icons=true&locale=en" alt="tejasva-087" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasva-087&" alt="tejasva-087" /></p>
+
 [![Tejasva Khandelwal's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=tejasva-087&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
